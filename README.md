@@ -1,8 +1,8 @@
-
-LR.github.DIOP/
-├── index.html      # Page principale
-├── style.css       # Feuille de style
-├── images/         # Dossier des images
+.
+├── index.html
+├── style.css
+├── images/
+│   ├── 233.jpg
 │   ├── produits/
-│   └── logos/
-└── README.md       # Ce fichier
+│   └── ...
+└── README.md
